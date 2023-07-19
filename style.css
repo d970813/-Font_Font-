@@ -1,0 +1,27 @@
+h1{
+    width: 100%;
+height: 110px;
+box-shadow: 10px 5px 5px rgb(178, 44, 190);
+padding: 10px;
+margin: 30px;
+font-style: bold;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(146, 42, 231);
+bottom: 0;
+width: 100%;
+background-color: rgb(255, 101, 132);
+line-height: 3;
+text-align: center;
+box-shadow: inset 5em 1em rgb(255, 225, 54);
+font-style: italic;
+}
+
+canvas{
+    border: 5px solid cornflowerblue;
+    border-radius: 20px;
+    box-shadow: 60px -16px rgb(34, 252, 168);
+    background-color: darkgoldenrod;
+}
